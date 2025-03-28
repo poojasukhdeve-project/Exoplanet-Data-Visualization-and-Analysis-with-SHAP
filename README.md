@@ -2,7 +2,7 @@
 Exoplanet Analysis with SHAP
 This project focuses on the analysis and interpretation of exoplanet data using various machine learning techniques, statistical analysis, and the SHAP library. The goal is to identify important features that influence the detection and characterization of exoplanets.
 
-Project Overview
+## Project Overview
 Exoplanets, or extrasolar planets, are planets that orbit stars outside our solar system. The detection and study of these planets help us understand planetary systems beyond our own. This project uses machine learning models to analyze exoplanet data and employs SHAP values to interpret the results.
 
 Methods Used
