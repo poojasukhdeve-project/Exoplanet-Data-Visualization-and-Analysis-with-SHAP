@@ -10,47 +10,47 @@ Exoplanets, or extrasolar planets, are planets that orbit stars outside our sola
 
 Loading and cleaning the exoplanet dataset.
 Handling missing values and feature engineering.
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 Visualizing data distributions and relationships.
 Identifying patterns and anomalies.
-Statistical Analysis:
+### Statistical Analysis:
 
 Conducting statistical tests to identify significant features.
 Analyzing correlations between features and target variables.
-Machine Learning Models:
+### Machine Learning Models:
 
 Implementing various machine learning algorithms such as Decision Trees, Random Forests, and Gradient Boosting.
 Training and evaluating models using cross-validation techniques.
-Model Interpretation with SHAP:
+### Model Interpretation with SHAP:
 
 Calculating SHAP values to understand feature importance.
 Visualizing SHAP values to interpret model predictions and gain insights.
-Notebook Structure
-Data Loading and Preprocessing:
+## Notebook Structure
+### Data Loading and Preprocessing:
 
 Import necessary libraries.
 Load the exoplanet dataset.
 Perform data cleaning and preprocessing steps.
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 Visualize data using various plots and charts.
 Analyze distributions and relationships between features.
-Statistical Analysis:
+### Statistical Analysis:
 
 Perform correlation analysis to examine relationships between features.
 Conduct statistical tests (e.g., t-tests, chi-square tests) to identify significant features.
 Summarize findings with appropriate statistical metrics and visualizations.
-Machine Learning Models:
+### Machine Learning Models:
 
 Train multiple machine learning models on the dataset.
 Evaluate model performance using metrics such as accuracy, precision, recall, and F1-score.
-Model Interpretation with SHAP:
+### Model Interpretation with SHAP:
 
 Calculate SHAP values for model predictions.
 Visualize SHAP values to interpret feature importance and model behavior.
-Results and Insights
+## Results and Insights
 The results of the analysis provide valuable insights into the factors that influence the detection of exoplanets. The statistical analysis helps identify significant features and relationships, while the SHAP values help in understanding the contribution of each feature to the model's predictions, making the models more interpretable and trustworthy.
 
-Conclusion
+## Conclusion
 This project demonstrates the use of statistical analysis, machine learning, and SHAP for analyzing and interpreting exoplanet data. The techniques used can be applied to other domains where model interpretability is crucial.
