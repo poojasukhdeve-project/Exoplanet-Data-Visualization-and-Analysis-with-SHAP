@@ -5,8 +5,8 @@ This project focuses on the analysis and interpretation of exoplanet data using 
 ## Project Overview
 Exoplanets, or extrasolar planets, are planets that orbit stars outside our solar system. The detection and study of these planets help us understand planetary systems beyond our own. This project uses machine learning models to analyze exoplanet data and employs SHAP values to interpret the results.
 
-Methods Used
-Data Preprocessing:
+## Methods Used
+### Data Preprocessing:
 
 Loading and cleaning the exoplanet dataset.
 Handling missing values and feature engineering.
