@@ -1,4 +1,4 @@
-# Exoplanet-Data-Visualization-and-Analysis-with-SHAPES
+# Exoplanet-Data-Visualization-and-Analysis-with-SHAP
 Exoplanet Analysis with SHAP
 This project focuses on the analysis and interpretation of exoplanet data using various machine learning techniques, statistical analysis, and the SHAP library. The goal is to identify important features that influence the detection and characterization of exoplanets.
 
